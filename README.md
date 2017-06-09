@@ -37,7 +37,7 @@ I immeadiately proceeded to updating all the server installed packages so they w
 
 
 
-# x - Final Checks and Restarts
+### x - Final Checks and Restarts
 
 x. After verifying that all was working appropriately and as per project specifications I then proceeded to restart the Apache service.
 
