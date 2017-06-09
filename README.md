@@ -11,17 +11,17 @@
 
 **Accessible SSH Port:** `2200`
 
-### Software Installed
+## Software Installed
 
 **Installed Software:** `Git` : for accessing the server remotely, `Ubuntu` : which was installed on the remote server via Amazon Lightsail, `Python` : used to import the Python packages below in order to serve the Item Catalog project to the web IP address listed above.
 
 **Installed Python Packages:** `sqlalchemy`, `flask`, `pip`, `requests`, `oauth2client`
 
-### Summary of Configurations
+## Summary of Configurations
 
 This was a long and detailed learning experience for me as I completed this project. Let's not keep you waiting any longer, join me on how the adventure unfolded!
 
-# 1 - Initial Login
+### 1 - Initial Login
 
 1. I logged in as the default user for my instance of Ubuntu via Amazon Lightsail utilizing the following command,
 
@@ -41,7 +41,7 @@ I immeadiately proceeded to updating all the server installed packages so they w
 
 x. After verifying that all was working appropriately and as per project specifications I then proceeded to restart the Apache service.
 
-### Third Party Resources Utilized
+## Third Party Resources Utilized
 
 - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 - https://help.ubuntu.com/community/Sudoers
